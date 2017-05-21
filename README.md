@@ -14,7 +14,7 @@ java Editeur
 
 ///// HOW TO USE IT /////
 
-You can create vertices and edges both of them with two different kind of shapes. For the shapes you can create circles and rectangles, and for the edges you can create straight lines ou curved lines. The button of creation are located on the top menu bar.
+You can create vertices and edges both of them with two different kind of shapes. For the shapes you can create circles and rectangles, and for the edges you can create straight lines or curved lines. The button of creation are located on the top menu bar.
 
 You can edit the size of a vertice using the scroll button of the mouse, either at the initialization, or either by clicking on it with the right button and selecting "edit size"
 
